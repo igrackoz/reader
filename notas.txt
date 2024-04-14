@@ -1,0 +1,17 @@
+- Crear slide de historias.
+- Diseñar interfaz móvíl.
+- Añadir logo en el lateral superior
+- Cambiar tamaño de letra
+- Añadir celebración confetti.
+- Nota final de redes.
+- Dar espacio al titulo de la obra ne primera plana.
+- Función de marcador de páginas.
+- Función de favoritos en páginas.
+- Opción de tamaño de fuente
+- Modificar barra de porcentaje al abrir aside.
+
+-------------------------------------------
+
+Posibles cambios:
+
+- Modo de lectura (libro y  digital)
